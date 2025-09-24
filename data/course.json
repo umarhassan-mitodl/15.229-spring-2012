@@ -1,0 +1,51 @@
+{
+  "term": "Spring",
+  "year": "2012",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Globalization"
+    ],
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Business",
+      "Organizational Behavior"
+    ]
+  ],
+  "legacy_uid": "b72262a8-d976-ccfa-5666-a12043e88b7a",
+  "instructors": {
+    "content": [
+      "30a5dcfa-c962-f710-8dd2-cde27ed5b7cf"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "49f57fa6-b961-cbfb-ebd5-3a54c1ea5381",
+    "website": "15-229-managing-global-integration-spring-2012"
+  },
+  "course_title": "Managing Global Integration",
+  "course_description": "This course on global integration brings together matters of global markets and institutions, global strategy, organization, and leadership. Global integration, the process by which an organization with units around the world becomes united, will be presented as a link to entrepreneurship and general management. The seminar is offered only to those enrolled in the {{% resource_link \"168b1566-dad8-4461-9610-747f972f0f1d\" \"MIT Sloan Fellows Program\" %}} and challenges the participants to draw upon their past managerial experiences, especially those affiliated with multinational companies.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.229",
+  "course_image_thumbnail": {
+    "content": "a72e51bc-64cd-d8cc-aecc-957d7124834a",
+    "website": "15-229-managing-global-integration-spring-2012"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "0ca52233-1ba3-4d60-afee-7015534570bf",
+  "site_short_id": "15.229-spring-2012",
+  "site_url_path": "courses/15-229-managing-global-integration-spring-2012",
+  "title": "Course Metadata"
+}
