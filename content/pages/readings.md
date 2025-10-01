@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the list of readings for each lecture session,
   associated study questions, and information on recommended books.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -11,9 +13,9 @@ uid: 7e3a0082-3f2e-bf76-7a10-0d7893e8dea2
 
 The readings for this course include articles, book chapters, and case studies of established companies from around the world. There is no required textbook; however, two books are very relevant to this subject and recommended:
 
-Bartlett, Christopher A., and Sumantra Ghoshal. _Managing Across Borders: The Transnational Solution_. Harvard Business Review Press, 2002. ISBN: 9781578517077. \[Preview with {{% resource_link "26a266d0-3bdd-4c83-817d-4f2ddc971fb6" "Google Books" %}}\]
+Bartlett, Christopher A., and Sumantra Ghoshal. _Managing Across Borders: The Transnational Solution_. Harvard Business Review Press, 2002. ISBN: 9781578517077. \[Preview with [Google Books](http://books.google.com/books?id=KYjHMVuNOAwC&printsec=frontcover)\]
 
-Doz, Yves L., José Santos, and Peter Williamson. _From Global to Metanational: How Companies Win in the Knowledge Economy_. Harvard Business Review Press, 2001. ISBN: 9780875848709. \[Preview with {{% resource_link "366d00fd-f167-490a-8aee-4af51c4bf240" "Google Books" %}}\]
+Doz, Yves L., José Santos, and Peter Williamson. _From Global to Metanational: How Companies Win in the Knowledge Economy_. Harvard Business Review Press, 2001. ISBN: 9780875848709. \[Preview with [Google Books](http://books.google.com/books?id=qzRq5KfIlwAC&printsec=frontcover)\]
 
 The material indicated as cases are to be treated as pre-readings that should be read in preparation for each class session. Students will benefit more from the material indicated as post-readings if the texts are studied after the sessions, together with the class slides and notes.
 
@@ -55,7 +57,7 @@ How Local Context Matters
 
 ### Case
 
-Leonard, Dorothy A. "{{% resource_link "278f907b-d197-47fe-9028-116812953ae2" "Hewlett Packard: Singapore (A)" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9-694-035, September 27, 1993.
+Leonard, Dorothy A. "[Hewlett Packard: Singapore (A)](http://hbr.org/product/hewlett-packard-singapore-a/an/694035-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-694-035, September 27, 1993.
 
 ### Post-Reading
 
@@ -85,11 +87,11 @@ Realizing a Global Performance
 
 ### Case
 
-Yoshino, Michael Y., and Masako Egawa. "{{% resource_link "31bbdd6a-065b-47a5-b895-f28dfd4d9990" "Nissan Motor Co. Ltd—2002" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9-303-042, October 15, 2002.
+Yoshino, Michael Y., and Masako Egawa. "[Nissan Motor Co. Ltd—2002](http://hbr.org/product/nissan-motor-co-ltd-2002/an/303042-HCB-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-303-042, October 15, 2002.
 
 ### Post-Reading
 
-Ghosn, Carlos. "{{% resource_link "d9a831ff-80f3-4dfb-b159-83b70e6e3ef0" "Saving the Business Without Losing the Company" %}}." _Harvard Business Review_ 80, no. 1 (2002): 37–45.
+Ghosn, Carlos. "[Saving the Business Without Losing the Company](http://hbr.org/2002/01/saving-the-business-without-losing-the-company/)." _Harvard Business Review_ 80, no. 1 (2002): 37–45.
 
 
 {{< tdclose >}}
@@ -107,7 +109,7 @@ The Relevance of Organization
 
 ### Post-Reading
 
-Bartlett, Christopher A., and Sumantra Ghoshal. "{{% resource_link "5f1f8f9c-9a69-4ea7-bea8-6eef362dc4c8" "Managing Across Borders: New Strategic Requirements" %}}." _MIT Sloan Management Review_ 28, no. 4 (1987): 7–17.
+Bartlett, Christopher A., and Sumantra Ghoshal. "[Managing Across Borders: New Strategic Requirements](http://sloanreview.mit.edu/article/managing-across-borders-new-strategic-requirements/)." _MIT Sloan Management Review_ 28, no. 4 (1987): 7–17.
 
 
 {{< tdclose >}}
@@ -135,11 +137,11 @@ Global Integration: The Value
 
 ### Case
 
-Rangan, S. "{{% resource_link "e6415bb0-4d27-4bf9-987d-6c79bb0d53d3" "SAP in 2006: Aiming for Global Concert" %}}." INSEAD. Case: 307-309-1, August 2007.
+Rangan, S. "[SAP in 2006: Aiming for Global Concert](http://cases.insead.edu/publishing/case?code=17703)." INSEAD. Case: 307-309-1, August 2007.
 
 ### Post-Reading
 
-Doz, Yves, José Sants, and Peter Williamson. "The Metanational: The Next Step in the Evolution of the Multinational Enterprise." Chapter 12 in _The Future of the Multinational Company_. Edited by Julian Birkinshaw, Sumantra Ghoshal, Constantinos C. Markides, et al. Wiley, 2003, pp. 154–68. ISBN: 9780470850657. \[Preview with {{% resource_link "c5427830-cbd5-41c4-a707-25384a6ed53b" "Google Books" %}}\]
+Doz, Yves, José Sants, and Peter Williamson. "The Metanational: The Next Step in the Evolution of the Multinational Enterprise." Chapter 12 in _The Future of the Multinational Company_. Edited by Julian Birkinshaw, Sumantra Ghoshal, Constantinos C. Markides, et al. Wiley, 2003, pp. 154–68. ISBN: 9780470850657. \[Preview with [Google Books](http://books.google.com/books?id=vG1JS8myJc0C&pg=PA154#v=onepage)\]
 
 
 {{< tdclose >}}
@@ -168,11 +170,11 @@ Global Integration: The Challenge
 
 ### Case
 
-Doz, Yves L. "{{% resource_link "4648bb58-15ac-48db-9bb8-2d61cbd26976" "Teva Pharmaceuticals: Global Integration" %}}." INSEAD, 2002.
+Doz, Yves L. "[Teva Pharmaceuticals: Global Integration](http://www.insead.edu/facultyresearch/research/details_cases.cfm?id=11717)." INSEAD, 2002.
 
 ### Post-Readings
 
-Ghoshal, Sumantra, and Nitin Nohria. "{{% resource_link "ca7835d4-f269-4e97-9282-db42a906f6a4" "Horses for Courses: Organizational Forms for Multinational Corporations" %}}." _MIT Sloan Management Review_ 34, no. 2 (1993): 23–35.
+Ghoshal, Sumantra, and Nitin Nohria. "[Horses for Courses: Organizational Forms for Multinational Corporations](http://sloanreview.mit.edu/the-magazine/1993-winter/3422/horses-for-courses-organizational-forms-for-multinational-corporations/)." _MIT Sloan Management Review_ 34, no. 2 (1993): 23–35.
 
 Galbraith, Jay R. "The Front-Back Hybrid Organization." Chapter 13 in _Designing the Global Corporation_. Jossey-Bass, 2000, pp. 238–69. ISBN: 9780787952754.
 
@@ -203,13 +205,13 @@ Navigating the Maze of a Globally Integrated Organization
 
 ### Case
 
-Simons, Robert L. "{{% resource_link "38d409d0-6ecd-482c-ade3-3fb6bc2e2a3d" "ABB: Accountability Times Two (B)" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9-191-142, May 19, 1992.
+Simons, Robert L. "[ABB: Accountability Times Two (B)](http://hbr.org/product/abb-accountability-times-two-b/an/192142-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-191-142, May 19, 1992.
 
 Note on ABB organization in the 1990's.
 
 ### Post-Reading
 
-Bartlett, Christopher A., and Sumantra Ghoshal. "Developing Flexibility: Specialized Roles and Responsibilities." Chapter 6 in _Managing Across Borders: The Transnational Solution_. Harvard Business Review Press, 2002, pp. 109–30. ISBN: 9781578517077. \[Preview with {{% resource_link "7942bd99-a53b-464d-9f15-c68dc3158d32" "Google Books" %}}\]
+Bartlett, Christopher A., and Sumantra Ghoshal. "Developing Flexibility: Specialized Roles and Responsibilities." Chapter 6 in _Managing Across Borders: The Transnational Solution_. Harvard Business Review Press, 2002, pp. 109–30. ISBN: 9781578517077. \[Preview with [Google Books](http://books.google.com/books?id=KYjHMVuNOAwC&pg=PA109#v=onepage)\]
 
 
 {{< tdclose >}}
@@ -238,7 +240,7 @@ Managing Global Clients
 
 ### Case
 
-Yip, G., and T. Yue. "{{% resource_link "08a75561-6f9b-4f69-ab88-d70a20fc9b48" "Siemens Key Account Management: Lost in Central Asia?" %}}" Rotterdam Business School Case. RSM Case Development Centre. Case: 311-256-1, 2011.
+Yip, G., and T. Yue. "[Siemens Key Account Management: Lost in Central Asia?](http://www.thecasecentre.org/educators/ordering/selecting/featuredcases/Siemens)" Rotterdam Business School Case. RSM Case Development Centre. Case: 311-256-1, 2011.
 
 ### Post-Reading
 
@@ -271,11 +273,11 @@ Managing Global Innovation
 
 ### Case
 
-Leonard, Dorothy A. "{{% resource_link "278f907b-d197-47fe-9028-116812953ae2" "Hewlett Packard: Singapore (A)" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9-694-035, September 27, 1993.
+Leonard, Dorothy A. "[Hewlett Packard: Singapore (A)](http://hbr.org/product/hewlett-packard-singapore-a/an/694035-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-694-035, September 27, 1993.
 
 ### Post-Reading
 
-Santos, José, Yves Doz, et al. "{{% resource_link "d7f2b468-505b-4c31-96c2-1b2c7a16ae88" "Is Your Innovation Process Global?" %}}" _MIT Sloan Management Review_ 45, no. 4 (2004): 31–7.
+Santos, José, Yves Doz, et al. "[Is Your Innovation Process Global?](http://sloanreview.mit.edu/article/is-your-innovation-process-global/)" _MIT Sloan Management Review_ 45, no. 4 (2004): 31–7.
 
 
 {{< tdclose >}}
@@ -303,13 +305,13 @@ Virtual Teamwork
 
 ### Case
 
-Metiu, A., and L. Selhat. "{{% resource_link "b6425f18-1c51-4fec-8867-2770f58f92f0" "Shield: Product Development in a Distributed Team" %}}." INSEAD. Case: 405-028-1, April 2008.
+Metiu, A., and L. Selhat. "[Shield: Product Development in a Distributed Team](http://www.thecasecentre.org/educators/products/view?id=63271)." INSEAD. Case: 405-028-1, April 2008.
 
 ### Post-Readings
 
 Santos, José. "On Virtual Teams."
 
-Siebdrat, Frank, Martin Hoegl, et al. "{{% resource_link "b2760ec1-8485-4811-9a9b-3e03f87d727e" "How to Manage Virtual Teams" %}}." _MIT Sloan Management Review_ 50, no. 4 (2009): 62–9.
+Siebdrat, Frank, Martin Hoegl, et al. "[How to Manage Virtual Teams](http://sloanreview.mit.edu/the-magazine/2009-summer/50412/how-to-manage-virtual-teams/)." _MIT Sloan Management Review_ 50, no. 4 (2009): 62–9.
 
 
 {{< tdclose >}}
@@ -337,11 +339,11 @@ Building the Globally Integrated Company
 
 ### Case
 
-Kanter, Rosabeth Moss. "{{% resource_link "7a51da01-66aa-43d7-bd65-7dafa3a91414" "IBM in the 21{{< sup \"st\" >}} Century: The Coming of the Globally Integrated Enterprise" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9-308-105, March 31, 2008.
+Kanter, Rosabeth Moss. "[IBM in the 21{{< sup "st" >}} Century: The Coming of the Globally Integrated Enterprise](http://hbr.org/product/ibm-in-the-21st-century-the-coming-of-the-globally/an/308105-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-308-105, March 31, 2008.
 
 ### Post-Reading
 
-Palmisano, Samuel J. "{{% resource_link "ac32e85d-f84a-41c9-9e0a-122ff3d52a32" "The Globally Integrated Enterprise" %}}." _Foreign Affairs_ 85, no. 3 (2006).
+Palmisano, Samuel J. "[The Globally Integrated Enterprise](http://www.foreignaffairs.com/articles/61713/samuel-j-palmisano/the-globally-integrated-enterprise)." _Foreign Affairs_ 85, no. 3 (2006).
 
 
 {{< tdclose >}}
@@ -373,7 +375,7 @@ Santos, José. "STMicroelectronics in 1997." INSEAD, 2008.
 
 ### Post-Reading
 
-Doz, Yves L., José Santos, and Peter Williamson. "The Metanational Advantage." Chapter 1 in _From Global to Metanational: How Companies Win in the Knowledge Economy_. Harvard Business Review Press, 2001, pp. 1–10. ISBN: 9780875848709. \[Preview with {{% resource_link "e053a18c-8851-457b-b7ce-f01a59022b5f" "Google Books" %}}\]
+Doz, Yves L., José Santos, and Peter Williamson. "The Metanational Advantage." Chapter 1 in _From Global to Metanational: How Companies Win in the Knowledge Economy_. Harvard Business Review Press, 2001, pp. 1–10. ISBN: 9780875848709. \[Preview with [Google Books](http://books.google.com/books?id=qzRq5KfIlwAC&pg=PA1#v=onepage)\]
 
 
 {{< tdclose >}}
@@ -391,7 +393,7 @@ Global Integration Going Forward
 
 ### Post-Reading
 
-Santos, José. "{{% resource_link "8f7f9e20-59d6-44b2-ae86-655dd6040eac" "Strategy Lessons from Left Field" %}}." _Harvard Business Review_ 85, no. 4 (2007): 20–1.
+Santos, José. "[Strategy Lessons from Left Field](http://hbr.org/2007/04/strategy-lessons-from-left-field/)." _Harvard Business Review_ 85, no. 4 (2007): 20–1.
 
 
 {{< tdclose >}}

@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, and grading.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -27,7 +29,7 @@ The concepts and methods that you will learn reveal how GI can be instrumental t
 Prerequisites
 -------------
 
-The seminar is offered only to those enrolled in the {{% resource_link "168b1566-dad8-4461-9610-747f972f0f1d" "MIT Sloan Fellows Program" %}} and challenges the participants to draw upon their past managerial experiences, especially those affiliated with multinational companies.
+The seminar is offered only to those enrolled in the [MIT Sloan Fellows Program](http://mitsloan.mit.edu/fellows/) and challenges the participants to draw upon their past managerial experiences, especially those affiliated with multinational companies.
 
 Requirements
 ------------
